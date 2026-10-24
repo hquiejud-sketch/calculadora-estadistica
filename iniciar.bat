@@ -1,3 +1,5 @@
+//este inicia el programa 
+
 @echo off
 REM Arranca backend (puerto 8000) y frontend (puerto 5173) y abre el navegador.
 cd /d "%~dp0"
